@@ -1,0 +1,15 @@
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1\bin\Debug\net7.0\Lecture1.exe
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1\bin\Debug\net7.0\Lecture1.deps.json
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1\bin\Debug\net7.0\Lecture1.runtimeconfig.json
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1\bin\Debug\net7.0\Lecture1.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1\bin\Debug\net7.0\Lecture1.pdb
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1\obj\Debug\net7.0\Lecture1.csproj.AssemblyReference.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1\obj\Debug\net7.0\Lecture1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1\obj\Debug\net7.0\Lecture1.AssemblyInfoInputs.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1\obj\Debug\net7.0\Lecture1.AssemblyInfo.cs
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1\obj\Debug\net7.0\Lecture1.csproj.CoreCompileInputs.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1\obj\Debug\net7.0\Lecture1.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1\obj\Debug\net7.0\refint\Lecture1.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1\obj\Debug\net7.0\Lecture1.pdb
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1\obj\Debug\net7.0\Lecture1.genruntimeconfig.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1\obj\Debug\net7.0\ref\Lecture1.dll
