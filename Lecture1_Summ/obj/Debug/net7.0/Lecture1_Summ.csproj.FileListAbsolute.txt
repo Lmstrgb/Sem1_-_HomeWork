@@ -1,0 +1,15 @@
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1_Summ\bin\Debug\net7.0\Lecture1_Summ.exe
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1_Summ\bin\Debug\net7.0\Lecture1_Summ.deps.json
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1_Summ\bin\Debug\net7.0\Lecture1_Summ.runtimeconfig.json
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1_Summ\bin\Debug\net7.0\Lecture1_Summ.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1_Summ\bin\Debug\net7.0\Lecture1_Summ.pdb
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1_Summ\obj\Debug\net7.0\Lecture1_Summ.csproj.AssemblyReference.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1_Summ\obj\Debug\net7.0\Lecture1_Summ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1_Summ\obj\Debug\net7.0\Lecture1_Summ.AssemblyInfoInputs.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1_Summ\obj\Debug\net7.0\Lecture1_Summ.AssemblyInfo.cs
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1_Summ\obj\Debug\net7.0\Lecture1_Summ.csproj.CoreCompileInputs.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1_Summ\obj\Debug\net7.0\Lecture1_Summ.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1_Summ\obj\Debug\net7.0\refint\Lecture1_Summ.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1_Summ\obj\Debug\net7.0\Lecture1_Summ.pdb
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1_Summ\obj\Debug\net7.0\Lecture1_Summ.genruntimeconfig.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Lecture1_Summ\obj\Debug\net7.0\ref\Lecture1_Summ.dll
