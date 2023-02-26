@@ -1,0 +1,30 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    
+
+    {
+      // Use IntelliSense to find out which attributes exist for C# debugging
+      // Use hover for the description of the existing attributes
+      // For further information visit https://github.com/OmniSharp/omnisharp-vscode/blob/master/debugger-launchjson.md
+      "console": "integratedTerminal", // added by Lmstr
+      "name": ".NET Core Launch (console)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      // If you have changed target frameworks, make sure to update the program path.
+      "program": "${workspaceFolder}/Sem1_HomeWork_3/bin/Debug/net7.0/Sem1_HomeWork_3.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/Sem1_HomeWork_3",
+      // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
+      //"console": "internalConsole", remarked by Lmstr
+      "stopAtEntry": false
+      
+    },
+    {
+      "name": ".NET Core Attach",
+      "type": "coreclr",
+      "request": "attach"
+    }
+  ]
+}
