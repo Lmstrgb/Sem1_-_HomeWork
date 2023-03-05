@@ -22,10 +22,11 @@ bool FuncIsNum(string str)
 
 Console.WriteLine("Введите число");
 string NumStr = Console.ReadLine()!;
+bool checkNum = FuncIsNum(NumStr);
 int Num = Convert.ToInt32(NumStr);
 int[] MassNum = new int[Num+1];
 
-if (FuncIsNum(NumStr))
+if (checkNum)
 {
   for (int i=0; i<=Num; i++)
   {
@@ -34,4 +35,4 @@ if (FuncIsNum(NumStr))
 }
 
 var skip = MassNum.Skip(1);  //  MassNum = MassNum.Skip(1).ToArray(), вырезали первый элемент массива
-Console.WriteLine(String.Join(" ", skip));
+Console.WriteLine(String.Join(", ", skip));
