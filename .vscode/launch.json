@@ -13,9 +13,9 @@
       "request": "launch",
       "preLaunchTask": "build",
       // If you have changed target frameworks, make sure to update the program path.
-      "program": "${workspaceFolder}/Sem2_HomeWork_t13/bin/Debug/net7.0/Sem2_HomeWork_t13.dll",
+      "program": "${workspaceFolder}/Sem4_HomeWork_t25/bin/Debug/net7.0/Sem4_HomeWork_t25.dll",
       "args": [],
-      "cwd": "${workspaceFolder}/Sem2_HomeWork_t13",
+      "cwd": "${workspaceFolder}/Sem4_HomeWork_t25",
       // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
       //"console": "internalConsole", remarked by Lmstr
       "stopAtEntry": false

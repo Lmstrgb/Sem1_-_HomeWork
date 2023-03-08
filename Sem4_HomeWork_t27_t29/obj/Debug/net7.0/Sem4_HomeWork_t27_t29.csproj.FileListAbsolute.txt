@@ -1,0 +1,15 @@
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem4_HomeWork_t27_t29\bin\Debug\net7.0\Sem4_HomeWork_t27_t29.exe
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem4_HomeWork_t27_t29\bin\Debug\net7.0\Sem4_HomeWork_t27_t29.deps.json
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem4_HomeWork_t27_t29\bin\Debug\net7.0\Sem4_HomeWork_t27_t29.runtimeconfig.json
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem4_HomeWork_t27_t29\bin\Debug\net7.0\Sem4_HomeWork_t27_t29.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem4_HomeWork_t27_t29\bin\Debug\net7.0\Sem4_HomeWork_t27_t29.pdb
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem4_HomeWork_t27_t29\obj\Debug\net7.0\Sem4_HomeWork_t27_t29.csproj.AssemblyReference.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem4_HomeWork_t27_t29\obj\Debug\net7.0\Sem4_HomeWork_t27_t29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem4_HomeWork_t27_t29\obj\Debug\net7.0\Sem4_HomeWork_t27_t29.AssemblyInfoInputs.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem4_HomeWork_t27_t29\obj\Debug\net7.0\Sem4_HomeWork_t27_t29.AssemblyInfo.cs
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem4_HomeWork_t27_t29\obj\Debug\net7.0\Sem4_HomeWork_t27_t29.csproj.CoreCompileInputs.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem4_HomeWork_t27_t29\obj\Debug\net7.0\Sem4_HomeWork_t27_t29.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem4_HomeWork_t27_t29\obj\Debug\net7.0\refint\Sem4_HomeWork_t27_t29.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem4_HomeWork_t27_t29\obj\Debug\net7.0\Sem4_HomeWork_t27_t29.pdb
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem4_HomeWork_t27_t29\obj\Debug\net7.0\Sem4_HomeWork_t27_t29.genruntimeconfig.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem4_HomeWork_t27_t29\obj\Debug\net7.0\ref\Sem4_HomeWork_t27_t29.dll
