@@ -1,0 +1,15 @@
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem6_HomeWork_t41_t43\bin\Debug\net7.0\Sem6_HomeWork_t41_t43.exe
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem6_HomeWork_t41_t43\bin\Debug\net7.0\Sem6_HomeWork_t41_t43.deps.json
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem6_HomeWork_t41_t43\bin\Debug\net7.0\Sem6_HomeWork_t41_t43.runtimeconfig.json
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem6_HomeWork_t41_t43\bin\Debug\net7.0\Sem6_HomeWork_t41_t43.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem6_HomeWork_t41_t43\bin\Debug\net7.0\Sem6_HomeWork_t41_t43.pdb
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem6_HomeWork_t41_t43\obj\Debug\net7.0\Sem6_HomeWork_t41_t43.csproj.AssemblyReference.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem6_HomeWork_t41_t43\obj\Debug\net7.0\Sem6_HomeWork_t41_t43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem6_HomeWork_t41_t43\obj\Debug\net7.0\Sem6_HomeWork_t41_t43.AssemblyInfoInputs.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem6_HomeWork_t41_t43\obj\Debug\net7.0\Sem6_HomeWork_t41_t43.AssemblyInfo.cs
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem6_HomeWork_t41_t43\obj\Debug\net7.0\Sem6_HomeWork_t41_t43.csproj.CoreCompileInputs.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem6_HomeWork_t41_t43\obj\Debug\net7.0\Sem6_HomeWork_t41_t43.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem6_HomeWork_t41_t43\obj\Debug\net7.0\refint\Sem6_HomeWork_t41_t43.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem6_HomeWork_t41_t43\obj\Debug\net7.0\Sem6_HomeWork_t41_t43.pdb
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem6_HomeWork_t41_t43\obj\Debug\net7.0\Sem6_HomeWork_t41_t43.genruntimeconfig.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem6_HomeWork_t41_t43\obj\Debug\net7.0\ref\Sem6_HomeWork_t41_t43.dll
