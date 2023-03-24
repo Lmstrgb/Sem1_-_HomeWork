@@ -1,0 +1,15 @@
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem8_HomeWork_t61\bin\Debug\net7.0\Sem8_HomeWork_t61.exe
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem8_HomeWork_t61\bin\Debug\net7.0\Sem8_HomeWork_t61.deps.json
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem8_HomeWork_t61\bin\Debug\net7.0\Sem8_HomeWork_t61.runtimeconfig.json
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem8_HomeWork_t61\bin\Debug\net7.0\Sem8_HomeWork_t61.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem8_HomeWork_t61\bin\Debug\net7.0\Sem8_HomeWork_t61.pdb
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem8_HomeWork_t61\obj\Debug\net7.0\Sem8_HomeWork_t61.csproj.AssemblyReference.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem8_HomeWork_t61\obj\Debug\net7.0\Sem8_HomeWork_t61.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem8_HomeWork_t61\obj\Debug\net7.0\Sem8_HomeWork_t61.AssemblyInfoInputs.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem8_HomeWork_t61\obj\Debug\net7.0\Sem8_HomeWork_t61.AssemblyInfo.cs
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem8_HomeWork_t61\obj\Debug\net7.0\Sem8_HomeWork_t61.csproj.CoreCompileInputs.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem8_HomeWork_t61\obj\Debug\net7.0\Sem8_HomeWork_t61.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem8_HomeWork_t61\obj\Debug\net7.0\refint\Sem8_HomeWork_t61.dll
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem8_HomeWork_t61\obj\Debug\net7.0\Sem8_HomeWork_t61.pdb
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem8_HomeWork_t61\obj\Debug\net7.0\Sem8_HomeWork_t61.genruntimeconfig.cache
+C:\Data\Study and work\GeekBrains\Repos\GeekBrains\2.С#_intro\Sem8_HomeWork_t61\obj\Debug\net7.0\ref\Sem8_HomeWork_t61.dll

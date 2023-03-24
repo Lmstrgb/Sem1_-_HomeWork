@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sem8_HomeWork_t61/1.0.0": {
+        "runtime": {
+          "Sem8_HomeWork_t61.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sem8_HomeWork_t61/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
